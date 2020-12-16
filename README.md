@@ -1,2 +1,2 @@
-# myOwnLibrary
-The code behind preexisting functions, such as "isTouching."
+# p5.play-boilerplate
+Boiler plate for p5.play
